@@ -1,5 +1,5 @@
 > [!NOTE]  
-> On 2025/11/19, this repository was transferred here from [openlandcover/one7types](https://github.com/openlandcover/one7types). The old link automatically redirects here.
+> On 2025/11/19, this repository was transferred here from [@openlandcover/one7types](https://github.com/openlandcover/one7types). The old link automatically redirects here.
 
 # Mapping landcover in India's Open Natural Ecosystems (ONEs)
 
