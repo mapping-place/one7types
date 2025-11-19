@@ -5,6 +5,18 @@
 
 This repo contains our code for mapping 7 major landcover types in India's Open Natural Ecosystems (ONE): ***saline areas***, ***sand dunes***, ***ravines***, ***sparsely vegetated areas***, ***open savannas***, ***shrub savannas*** and ***woodland savannas***. A visualization of this map is available [here](https://one-india.streamlit.app/).
 
+| Landcover | Description |
+|:------:|:------|
+| _Dune_ | Areas where the soil substrate is predominantly sandy, with the vegetation being mostly short-statured, sparsely distributed and occurring in clumps. |
+| _Ravine_ | Areas with deep gullies following substrate erosion patterns. Tree cover is sparse, if at all, and ground vegetation is shrub- and grass-dominated. |
+| _Saline_ | Salt marshes of The Rann of Kutchch. |
+| _Bare or sparsely vegetated_ | Areas with no trees and little or no ground vegetation. Ground vegetation, if it occurs, is sparsely distributed. |
+| _Open Savanna_ | Areas with grasses and shrubs in the understorey and trees above. Tree cover is very sparse. |
+| _Shrub Savanna_ | Areas with grasses and shrubs in the understorey and trees above. Tree cover is sparse. Understorey can include short-statured woody vegetation. |
+| _Woodland Savanna_ | Areas with grasses and shrubs in the understorey and trees above. Tree cover is moderate. Large openings in the tree canopy cover remain, and the understorey is predominantly grasses.|
+| _Others_ | Forests, tree plantations, agricultural areas, built-up areas, open water and wetlands. |
+
+
 This probabilistic land cover map was produced using an **explicit hierarchical classification** approach. See [below](#classificationtraining-and-prediction) for more on this approach.
 
 
